@@ -1,14 +1,14 @@
 //載入自訂義 bootstrap
 @font-face {
     font-family: 'GenSenRounded TW Regular';
-    src: url('../fonts/GenSenRounded-R.ttc') format('truetype');
+    src: url('/fonts/GenSenRounded-R.ttc') format('truetype');
     font-weight: 400;
     font-style: normal;
   }
   
 @font-face {
     font-family: 'GenSenRounded TW Medium';
-    src: url('../fonts/GenSenRounded-M.ttc') format('truetype');
+    src: url('/fonts/GenSenRounded-M.ttc') format('truetype');
     font-weight: 500;
     font-style: normal;
 }
