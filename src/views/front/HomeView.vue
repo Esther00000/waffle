@@ -23,7 +23,7 @@
         <h2 class="text-center text-primary mb-5">\ 關於我們 /</h2>
         <div class="row">
           <div class="col-lg-6" data-aos="fade-right">
-            <img src="/images/hero/waffle.png" class="img-fluid" alt="info" />
+            <img src="../../assets/images/hero/waffle.png" class="img-fluid" alt="info" />
           </div>
           <div class="col-lg-6 d-flex" data-aos="fade-left">
             <div class="align-self-center">
@@ -54,7 +54,7 @@
                 >
                   <div>
                     <img
-                      src="/images/Product-Features/Product-Features-1.png"
+                      src="../../assets/images/Product-Features/Product-Features-1.png"
                       class="img-fluid"
                       alt="Features-1"
                     />
@@ -75,7 +75,7 @@
                 >
                   <div>
                     <img
-                      src="/images/Product-Features/Product-Features-2.png"
+                      src="../../assets/images/Product-Features/Product-Features-2.png"
                       class="img-fluid"
                       alt="Features-2"
                     />
@@ -96,7 +96,7 @@
                 >
                   <div>
                     <img
-                      src="/images/Product-Features/Product-Features-3.png"
+                      src="../../assets/images/Product-Features/Product-Features-3.png"
                       class="img-fluid"
                       alt="Features-3"
                     />
@@ -128,7 +128,7 @@
               <!-- cover -->
               <div class="position-relative">
                 <img
-                  src="/images/selectedProduct/selectedProduct01.png"
+                  src="../../assets/images/selectedProduct/selectedProduct01.png"
                   class="card-img-top"
                   alt="selectedProduct01"
                 />
@@ -159,7 +159,7 @@
               <!-- cover -->
               <div class="position-relative">
                 <img
-                  src="/images/selectedProduct/selectedProduct02.png"
+                  src="../../assets/images/selectedProduct/selectedProduct02.png"
                   class="card-img-top"
                   alt="selectedProduct02"
                 />
@@ -190,7 +190,7 @@
               <!-- cover -->
               <div class="position-relative">
                 <img
-                  src="/images/selectedProduct/selectedProduct03.png"
+                  src="../../assets/images/selectedProduct/selectedProduct03.png"
                   class="card-img-top"
                   alt="selectedProduct03"
                 />
