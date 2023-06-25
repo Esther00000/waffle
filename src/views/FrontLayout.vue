@@ -37,7 +37,7 @@
     <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top">
         <div class="container">
           <!-- logo -->
-          <RouterLink to="/" class="navbar-brand text-primary" @click="toggleFormVisibility"><img src="/images/navbar/logo.png" class="w-50 " alt=""></RouterLink>
+          <RouterLink to="/" class="navbar-brand text-primary" @click="toggleFormVisibility"><img src="../assets/images/navbar/logo.png" class="w-50 " alt=""></RouterLink>
           <!-- menu-btn for mobile -->
           <button
             class="navbar-toggler"
