@@ -2,7 +2,7 @@
     <header
         class="header d-flex justify-content-center align-items-lg-center px-4 py-5 vh-100"
         style="
-          background-image: url(/images/selectedProduct/selectedProduct01.png);
+          background-image: url(../../assets/images/selectedProduct/selectedProduct01.png);
           background-position: center;
           background-size: cover;
           background-color: rgba(0, 0, 0, 0.6);
